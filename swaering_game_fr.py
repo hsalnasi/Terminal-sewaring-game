@@ -19,7 +19,7 @@ swearing_sen = ["oh yeah ? Maybe ur ugly ass ? ", "that's funny ! cuz as far as 
 amir_swords = ["Terrorist", "Ali express's Kakashi", "Jude", "Fake Badwi",
                "mr.emotions", "ali express's Emo boy .", "Nerd", "mr.Yamto is better than me"]
 amir_sent = ["I almost can hear u cryin from here . stop it ",  "Why? is it beacuse of ur flat ass?",
-             "maybe cuz you'll never get to hear my voice ?", "STFU", "UMMM... ur MUM ?"]
+             "maybe cuz you'll never get to hear my voice eilf ?", "STFU", "UMMM... ur MUM ?" , "Maybe when u man up " , "sure , sure .. but ur still a terroriest lmao"]
 not_enough = ["not enough? ugh ",
               "WTF ! do u really like to curse ? lol ", "Get a life u swearing nerd"]
 
